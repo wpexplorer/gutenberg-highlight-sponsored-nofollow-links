@@ -1,5 +1,5 @@
 # Gutenberg Highlight Sponsored & Nofollow Links
-A little plugin based on our tutorial [Highlight Sponsored & Nofollow Links in Gutenberg](https://www.wpexplorer.com/how-to-disable-wordpress-gutenberg-block-patterns/](https://www.wpexplorer.com/highlight-sponsored-nofollow-links-gutenberg/)
+A little plugin based on our tutorial [Highlight Sponsored & Nofollow Links in Gutenberg](https://www.wpexplorer.com/highlight-sponsored-nofollow-links-gutenberg/)
 
 The plugin will remove all the core and remove patterns.
 
